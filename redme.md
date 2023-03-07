@@ -17,6 +17,6 @@ Organizzare i singoli membri in card/schede -->
 Milestone 1
 --Creiamo un Array di Oggetti array=[{}, {}, {}, {}, {}, {}]
 Milestone 2
---Stampiamo in console ogni membro del team, il nome il ruolo e a stringa img
-Milestone 3
+--Stampiamo nel Dom ogni membro del team, il nome il ruolo e la stringa img
 --Stampiamo nel Dom queste informazioni
+--Bomus: Inseriamo le immagini creando delle card
