@@ -13,10 +13,15 @@ BONUS 1:
 Trasformare la stringa foto in una immagine effettiva
 BONUS 2:
 Organizzare i singoli membri in card/schede -->
-
-Milestone 1
+# Our Team
+Utilizzando i dati forniti, creare un array di oggetti per rappresentare i membri del team.
+Ogni membro è caratterizzato dalle seguenti informazioni:
+- nome
+- ruolo
+- foto
+### **Milestone 1**
 --Creiamo un Array di Oggetti array=[{}, {}, {}, {}, {}, {}]
-Milestone 2
+### **Milestone 2**
 --Stampiamo nel Dom ogni membro del team, il nome il ruolo e la stringa img
 --Stampiamo nel Dom queste informazioni
 --Bomus: Inseriamo le immagini creando delle card
